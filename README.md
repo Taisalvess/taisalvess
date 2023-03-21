@@ -5,7 +5,8 @@
 - Sou estudante de  Hmtl, CSS ,JavaScript e React.
 - Futura Desenvolvedora Front-End.
 
-<div align="center">  
+<div align="center"> 
+  <a href= "https://github.com/Taisalvess">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Taisalvess&show_icons=true&theme=midnight-purple=true&hide_border=true&title_color=8E2DE2&icon_color=8E2DE2&text_color=c9d1d9&bg_color=0d1117" alt="Tais Alves github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taisalvess&layout=compact&hide_border=true&title_color=8E2DE2&text_color=8E2DE2&bg_color=0d1117" />
 </div>
