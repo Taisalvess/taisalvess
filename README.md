@@ -2,7 +2,7 @@
 
 ## Olá, me chamo Tais Alves !
 
-- Sou estudante de  Hmtl, CSS ,JavaScript e React.
+- Sou estudante de  Hmtl, CSS e JavaScript .
 - Futura Desenvolvedora Front-End.
 
 <div align="center"> 
