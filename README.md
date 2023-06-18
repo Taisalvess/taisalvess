@@ -2,8 +2,13 @@
 
 ## Olá, me chamo Tais Alves !
 
-- Sou estudante de  Hmtl, CSS e JavaScript .
-- Futura Desenvolvedora Front-End.
+• Estudo Análise e Desenvolvimento de Sistemas (UNINTER Centro Universitário Internacional).
+
+• Desenvolvedora em formação, estudando neste momento front-end (com React).
+
+• Tecnologias que já utilizo:  JavaScript   HTML  CSS  Git.
+
+• Caso queira seguir meu perfil no GitHub, vou ficar muito feliz – sendo que prometo acompanhar seu trabalho aqui também!  ☺️
 
 <div align="center"> 
   <a href= "https://github.com/Taisalvess">
