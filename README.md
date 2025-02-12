@@ -2,11 +2,11 @@
 
 ## Olá, me chamo Tais Alves !
 
-• Estudo Análise e Desenvolvimento de Sistemas (UNINTER Centro Universitário Internacional).
+• Estudo Análise e Desenvolvimento de Sistemas (Universidade Cruzeiro do Sul).
 
 • Desenvolvedora em formação, estudando neste momento front-end (com React).
 
-• Tecnologias que já utilizo:  JavaScript   HTML  CSS  Git.
+• Tecnologias que já utilizo:  JavaScript   HTML  CSS  .
 
 • Caso queira seguir meu perfil no GitHub, vou ficar muito feliz – sendo que prometo acompanhar seu trabalho aqui também!  ☺️
 
