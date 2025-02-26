@@ -12,8 +12,8 @@
 
 <div align="center"> 
   <a href= "https://github.com/Taisalvess">
-  <img width="43%" height="173%" src="https://github-readme-stats.vercel.app/api?username=Taisalvess&show_icons&theme=algolia" />
-  <img width="49%" height="189px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taisalvess&layout=compact&theme=algolia" />
+  <img width="50%" height="173%" src="https://github-readme-stats.vercel.app/api?username=Taisalvess&show_icons&theme=algolia" />
+  <img width="49%" height="185px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taisalvess&layout=compact&theme=algolia" />
 
 
     
