@@ -1,26 +1,25 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8E2DEf&size=30&center=true&vCenter=true&width=1000&lines=Seja+Bem-Vindos:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00aeffff&size=30&center=true&vCenter=true&width=1000&lines=Seja+Bem-Vindos:%29)](https://git.io/typing-svg)
 
-## Olá, me chamo Tais Alves !
+## Olá, eu sou a Tais Alves!
+🎓 Graduanda em Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul.
 
-• Estudo Análise e Desenvolvimento de Sistemas (Universidade Cruzeiro do Sul).
+💻 Desenvolvedora Front-End, com experiência em design e desenvolvimento de interfaces dinâmicas e responsivas.
 
-• Desenvolvedora em formação, estudando neste momento front-end (com React).
+🚀 Tecnologias: TypeScript, JavaScript, HTML, CSS, React, Tailwind CSS, e Figma.
 
-• Tecnologias que já utilizo:  JavaScript   HTML  CSS  .
-
-• Caso queira seguir meu perfil no GitHub, vou ficar muito feliz – sendo que prometo acompanhar seu trabalho aqui também!  ☺️
+  Estou sempre buscando aprender mais sobre as ferramentas e práticas mais inovadoras do front-end. 
+  Se quiser acompanhar meu trabalho no GitHub, será um prazer conectar e compartilhar experiências! 😊
 
 <div align="center"> 
   <a href= "https://github.com/Taisalvess">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Taisalvess&show_icons=true&theme=algolia alt="Tais Alves GitHub stats" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taisalvess&layout=compact&theme=algolia_border=true&title_color=8E2DE2&text_color=8E2DE2&bg_color=0d1117" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Taisalvess&layout=compact&theme=algolia"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Taisalvess&show_icons&theme=algolia" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taisalvess&layout=compact&theme=algolia" />
 
 
     
 </div>
 
-
+<h1 align="riht">Linguagens e Tecnologias</h1>
 <div style="display: inline_block"><br>
   <img align="center" alt="Tais-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Tais-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -29,9 +28,9 @@
  
 </div>
   
-   <h1 align="center">Redes Sociais</h1>
+   <h1 align="riht">Redes Sociais</h1>
    
    <a href = "mailto:taisalvessilva97@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/_taisaalves_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href="https://www.linkedin.com/in/taisalves0797/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href="https://www.linkedin.com/in/tais-alves-65b274351/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
