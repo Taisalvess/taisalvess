@@ -12,7 +12,6 @@
 
 <div align="center"> 
   <a href= "https://github.com/Taisalvess">
-  <img width="49%" height="195px" src="[https://github-readme-stats.vercel.app/api?username=Taisalvess&show_icons=true&theme=midnight-purple=true&hide_border=true&title_color=8E2DE2&icon_color=8E2DE2&text_color=c9d1d9&bg_color=0d1117](https://camo.githubusercontent.com/348e3aca5ddc71ebb9faaf46976ddb501e83a660484363ad1a773b831505b338/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d616e7572616768617a7261267265706f3d6769746875622d726561646d652d73746174732663616368655f7365636f6e64733d3836343030267468656d653d616c676f6c6961)" alt="Tais Alves github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taisalvess&layout=compact&hide_border=true&title_color=8E2DE2&text_color=8E2DE2&bg_color=0d1117" />
     
 </div>
