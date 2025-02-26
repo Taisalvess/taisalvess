@@ -14,7 +14,7 @@
   <a href= "https://github.com/Taisalvess">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Taisalvess&show_icons=true&theme=algolia&hide_border=true&title_color=8E2DE2&icon_color=8E2DE2&text_color=c9d1d9&bg_color=0d1117" alt="Tais Alves GitHub stats" />
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taisalvess&layout=compact&theme=algolia&hide_border=true&title_color=8E2DE2&text_color=8E2DE2&bg_color=0d1117" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=algolia_icons=true"/>
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=algolia=true"/>
 
 
     
