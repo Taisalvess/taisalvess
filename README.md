@@ -5,7 +5,7 @@
 
 💻 Desenvolvedora Front-End, com experiência em design e desenvolvimento de interfaces dinâmicas e responsivas.
 
-🚀 Tecnologias: TypeScript, JavaScript, HTML, CSS, React, Tailwind CSS, e Figma.
+🚀 Tecnologias: HTML, CSS, JavaScript, React, Tailwind CSS, e Figma.
 
   Estou sempre buscando aprender mais sobre as ferramentas e práticas mais inovadoras do front-end. 
   Se quiser acompanhar meu trabalho no GitHub, será um prazer conectar e compartilhar experiências! 😊
