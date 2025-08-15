@@ -1,14 +1,15 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00aeffff&size=30&center=true&vCenter=true&width=1000&lines=Seja+Bem-Vindos:%29)](https://git.io/typing-svg)
 
 ## Olá, eu sou a Tais Alves!
-🎓 Graduanda em Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul.
+🎯 Desenvolvedora Front-End apaixonada por transformar ideias em experiências digitais modernas, responsivas e de alta performance.
 
-💻 Desenvolvedora Front-End, com experiência em design e desenvolvimento de interfaces dinâmicas e responsivas.
+📚 Atualmente curso Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul e me especializo em HTML, CSS, JavaScript, Tailwind e UX/UI Design com Figma.
 
-🚀 Tecnologias: HTML, CSS, JavaScript, React, Tailwind CSS, e Figma.
+💻 Já desenvolvi interfaces otimizadas que melhoraram a usabilidade e o tempo de carregamento, aplicando metodologias ágeis (Scrum) e versionamento com Git/GitHub.
 
-  Estou sempre buscando aprender mais sobre as ferramentas e práticas mais inovadoras do front-end. 
-  Se quiser acompanhar meu trabalho no GitHub, será um prazer conectar e compartilhar experiências! 😊
+🚀 Tenho sede de aprendizado constante e gosto de trabalhar em projetos colaborativos que unem estética, funcionalidade e inovação.
+
+📩 Aberta a conexões e oportunidades : taisalvessilva97@gmail.com
 
 <div align="center"> 
   <a href= "https://github.com/Taisalvess">
