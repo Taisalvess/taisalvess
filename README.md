@@ -61,9 +61,4 @@ Conquistar minha **primeira oportunidade como Desenvolvedora Java Júnior**, apl
 ⭐ Fique à vontade para explorar meus repositórios!
 
 
-   <h1 align="riht">Redes Sociais</h1>
-   
-   <a href = "mailto:taisalvessilva97@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/_taisaalves_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href="www.linkedin.com/in/taisalvesdev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+  
