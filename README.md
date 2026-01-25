@@ -1,34 +1,66 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00aeffff&size=30&center=true&vCenter=true&width=1000&lines=Seja+Bem-Vindos:%29)](https://git.io/typing-svg)
 
-## Olá, eu sou a Tais Alves!
-🎯 Desenvolvedora Front-End apaixonada por transformar ideias em experiências digitais modernas, responsivas e de alta performance.
 
-📚 Atualmente curso Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul e me especializo em HTML, CSS, JavaScript, Tailwind e UX/UI Design com Figma.
+# 👋 Olá, eu sou a Tais Alves!
 
-💻 Já desenvolvi interfaces otimizadas que melhoraram a usabilidade e o tempo de carregamento, aplicando metodologias ágeis (Scrum) e versionamento com Git/GitHub.
+🎯 **Desenvolvedora em transição de carreira com foco em Java Back-end**
 
-🚀 Tenho sede de aprendizado constante e gosto de trabalhar em projetos colaborativos que unem estética, funcionalidade e inovação.
+Sou estudante de Análise e Desenvolvimento de Sistemas e estou direcionando minha carreira para o desenvolvimento **Back-end com Java**, construindo projetos práticos para consolidar fundamentos e me preparar para vagas de **Java Júnior**.
 
-📩 Aberta a conexões e oportunidades : taisalvessilva97@gmail.com
+---
 
-<div align="center"> 
-  <a href= "https://github.com/Taisalvess">
-  <img width="50%" height="173%" src="https://github-readme-stats.vercel.app/api?username=Taisalvess&show_icons&theme=algolia" />
-  <img width="49%" height="185px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taisalvess&layout=compact&theme=algolia" />
+## 🚀 Sobre mim
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas**
+- ☕ Estudando **Java**, **POO**, **Spring Boot** e **APIs REST**
+- 🗄️ Integração com bancos de dados (SQL)
+- ☁️ Fundamentos de **Cloud (AWS)** em andamento
+- 🌱 Aprendizado contínuo e foco em evolução técnica
+
+Possuo base em **HTML, CSS e JavaScript**, o que me permite criar **front-ends simples para consumo de APIs**, facilitando testes e validações dos projetos back-end.
+
+---
+
+## 🌟 Atuação na Comunidade Tech
+Sou **Embaixadora DIO Campus Expert (T13 e T14)**, programa de liderança estudantil da **DIO – a maior plataforma de educação em tecnologia da América Latina**.
+
+Atuo inspirando e conectando estudantes à área de tecnologia, divulgando oportunidades de aprendizado, liderando iniciativas educacionais e fortalecendo a comunidade tech por meio de mentorias, desafios práticos e networking.
+
+Essa experiência fortaleceu minhas habilidades de **liderança, comunicação e colaboração**, além de ampliar meu impacto na comunidade tech.
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+**Back-end**
+- Java
+- Programação Orientada a Objetos (POO)
+- Spring Boot
+- APIs REST
+- SQL
+
+**Front-end (base)**
+- HTML
+- CSS
+- JavaScript
+
+**Ferramentas**
+- Git & GitHub
+- IntelliJ IDEA
+- Figma (UX/UI – base)
+
+---
+
+## 📌 Objetivo
+Conquistar minha **primeira oportunidade como Desenvolvedora Java Júnior**, aplicando boas práticas, aprendendo com times experientes e evoluindo constantemente como desenvolvedora.
+
+---
+
+## 📫 Vamos conversar?
+- 📧 Email: **taisalvessilva97@gmail.com**
+- 💼 LinkedIn: www.linkedin.com/in/taisalvesdev
+
+⭐ Fique à vontade para explorar meus repositórios!
 
 
-    
-</div>
-
-<h1 align="riht">Linguagens e Tecnologias</h1>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Tais-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Tais-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Tais-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="Tais-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
- 
-</div>
-  
    <h1 align="riht">Redes Sociais</h1>
    
    <a href = "mailto:taisalvessilva97@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
