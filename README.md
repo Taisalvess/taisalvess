@@ -10,7 +10,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e estou direcionando min
 ---
 
 ## 🚀 Sobre mim
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas**
+- 🎓 Sou estudante de Análise e Desenvolvimento de Sistemas, focada no desenvolvimento Back-end com Java.**
 - ☕ Estudando **Java**, **POO**, **Spring Boot** e **APIs REST**
 - 🗄️ Integração com bancos de dados (SQL)
 - ☁️ Fundamentos de **Cloud (AWS)** em andamento
