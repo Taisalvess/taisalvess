@@ -3,7 +3,7 @@
 
 # 👋 Olá, eu sou a Tais Alves!
 
-🎯 **Desenvolvedora em transição de carreira com foco em Java Back-end**
+🎯 **Desenvolvedora Back-end Java Júnior | Java • Spring Boot • APIs REST**
 
 Sou estudante de Análise e Desenvolvimento de Sistemas e estou direcionando minha carreira para o desenvolvimento **Back-end com Java**, construindo projetos práticos para consolidar fundamentos e me preparar para vagas de **Java Júnior**.
 
