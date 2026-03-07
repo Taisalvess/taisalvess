@@ -1,7 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00aeffff&size=30&center=true&vCenter=true&width=1000&lines=Seja+Bem-Vindos:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF13F0&size=30&center=true&vCenter=true&width=1000&lines=Seja+Bem-Vindos:%29)](https://git.io/typing-svg)
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,4,2,2,0&height=300&section=header&text=Tais%20Alves&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=%20DESENVOLVEDORA%20BACK-END&descAlignY=51&descSize=20"/>
 
-# 👋 Olá, eu sou a Tais Alves!
 
 🎯 **Desenvolvedora Back-end Java Júnior | Java • Spring Boot • APIs REST**
 
@@ -59,6 +59,9 @@ Conquistar minha **primeira oportunidade como Desenvolvedora Java Júnior**, apl
 - 💼 LinkedIn: www.linkedin.com/in/taisalvesdev
 
 ⭐ Fique à vontade para explorar meus repositórios!
+
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 
 
   
